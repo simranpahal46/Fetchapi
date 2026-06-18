@@ -1,11 +1,11 @@
 import Navbar from './Components/Userinput'
-import Api from './Components/Api'
+import Apis from './Components/Apis'
 import A from './Components/A'
 export default function App() {
   return (
     <div>
       {/* <Navbar/> */}
-      <Api/>
+      <Apis/>
       {/* <A/> */}
     </div>
   )
